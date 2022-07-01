@@ -1,2 +1,2 @@
 # HTML_TarifOdevi
-Çikolatalı Islak Kurabiye Tarifinin olduğu ir website. CSS kullanmadan yazı renklerini değiştirdim.
+Çikolatalı Islak Kurabiye Tarifinin olduğu bir website. CSS kullanmadan yazı renklerini değiştirdim.
